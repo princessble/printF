@@ -1,4 +1,4 @@
-this is group work created by Blessing Fortune Nzeh in collaboration with Marvin Ogik
+this is a group work created by Blessing Fortune Nzeh in collaboration with Marvin Ogik
 
 0x11. C - printf team project
 
